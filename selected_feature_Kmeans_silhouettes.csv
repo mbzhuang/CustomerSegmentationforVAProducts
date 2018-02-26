@@ -1,0 +1,48 @@
+,Variable,Description
+0,JointInd,Indicator of a joint contract
+1,Number.of.Active.Sources_C3,Self explanatory
+2,Mortgage.Liability_C3,Self explanatory
+3,Housing.Units.Percent.5.Units_C3,Self explanatory
+4,iat96m12_C4,Number of inquiries (dedupped) in last 12 months
+5,ifn21_C4,Months since most recent auto trade opened
+6,ifn20xam_C4,Months since oldest finance trade opened excluding auto and mortgage
+7,icc33_C4,Total balance of open Credit -Charged Cards verified in last 12 months
+8,iat96m03_C4,Number of inquiries (dedupped) in last 3 months
+9,iat89_C4,Highest delinquency on a trade
+10,ifn01_C4,Number of finance trades
+11,Property.Lot.Size.In.Acres_num,Self explanatory
+12,Target.Narrow.Band.Income_num,Self explanatory
+13,ibr34_C4,Utilization of open bank revolving trades updated in last 12 months
+14,Match3,Self explanatory
+15,Housing.Units.Percent.Built.2005.or.Later_C3,Self explanatory
+16,ibr20_C4,Months since oldest bank revolving trade opened
+17,GMDBInd,Indicator of death benefit rider
+18,ihi01y5_C4,Number of home equity trades verified in last 5 years
+19,icc07_C4,Number of credit-charge cards opened in last 12 months
+20,CEN_tr_pctArtsCon,"Pecentage of people in Arts, entertainment, and recreation, and accommodation and food services Industry with Natural resources, construction, and maintenance occupations"
+21,icc21_C4,Months since most recent credit-charge card opened
+22,iau20_C4,Months since oldest auto trade opened
+23,icc96m06_C4,Number of credit card inquiries in the last 6 months
+24,Number.of.Lifestyles.All_C3,Self explanatory
+25,ibr31_C4,Percentage of open auto trades > 75% of limit verified in last 12 months
+26,CEN_tr_pctRetailService,Pecentage of people in Retail trade Industry with Service occupations
+27,i12ccxd1_C4,Maximum credit card amount past due/balance ratio over last 12 months
+28,iau31_C4,Percentage of open auto trades > 75% of limit verified in last 12 months
+29,icc34_C4,Utilization of Credit-Charged verified in last 12 months
+30,Political.Donor.Propensity_C3,Self explanatory
+31,icc31_C4,Percentage of open credit-charge cards > 75% of limit verified in last 12 months
+32,icc96m12_C4,Number of credit card inquiries in the last 12 months
+33,Housing.Units.Percent.Built.2000.to.2004_C3,Self explanatory
+34,CEN_tr_pctLT25KAge65plus,"Percentage of Households With In The Past 12 Months Less than $25,000 among Householders  65 years and over"
+35,CEN_tr_pctLT10KAge65plus,"Percentage of Households With In The Past 12 Months Less than $10,000 among Householders  65 years and over"
+36,iat96m01_C4,Number of inquiries (dedupped) in the last month
+37,CEN_tr_pctProductionFamily,"Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Production, transportation, and material moving occupations"
+38,iin01_C4,Number of installment trades
+39,iat51_C4,Percentage of trades never delinquent
+40,iau02y5_C4,Number of open auto trades verified in last 5 years
+41,CEN_tr_pctConstructionFamily,"Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Natural resources, construction, and maintenance occupations"
+42,MarkettoArea_C1,Self explanatory
+43,ibr02y5_C4,Number of open bank revolving trades verified in last 5 years
+44,iat41_C4,Number of trades ever 30+ days past due
+45,ire31_C4,Percentage of open revolving trades > 75% of limit verified in last 12 months
+46,iau102_C4,Months since most recent auto inquiry

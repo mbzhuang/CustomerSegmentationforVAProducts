@@ -1,51 +1,51 @@
 ,Variable,Description
 0,JointInd,Indicator of a joint contract
-1,NoOfCars_C1,Self explanatory
-2,CEN_tr_pctAdminOcc,Pecentage of people with Office and administrative support occupations
-3,CEN_tr_pctSalesFamily,Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Sales and office occupations
-4,CEN_tr_pctAdministrationSales,Pecentage of people in Public administration Industry with Sales and office occupations
-5,iau34_C4,Utilization of auto trades verified in last 12 months
-6,CEN_bg_ageUnder5,Percentage of Age under 5
-7,CEN_tr_pctInformationProd,"Pecentage of people in Information Industry with Production, transportation, and material moving occupations"
-8,CEN_tr_pctSeasonalHousingUnits,Pecentage of Seasonal Housing Units
-9,CEN_tr_pctConstructionCon,"Pecentage of people in Construction Industry with Natural resources, construction, and maintenance occupations"
-10,CEN_tr_pctManufacturingService,Pecentage of people in Manufacturing Industry with Service occupations
-11,CEN_tr_pctManufacturingCon,"Pecentage of people in Manufacturing Industry with Natural resources, construction, and maintenance occupations"
-12,ifn31_C4,Percentage of open auto trades > 75% of limit verified in last 12 months
-13,CEN_tr_pctManagementPrivate,"Percentage of People work as Employee of private company workers with Management, business, science, and arts occupations"
-14,CEN_bg_pctWorkforceFemale,Pecentage of Female Workers
-15,CEN_bg_age35plus,Percentage of Age 35 and over
-16,CEN_tr_pctLT25KAge45plus,"Percentage of Households With In The Past 12 Months Less than $25,000 among Householders  45 years and over"
-17,CEN_bg_pctGE60KAge65plus,"Percentage of Households With In The Past 12 Months Greater Than $60,000 among Householders  65 years and over"
-18,CEN_bg_pctHHWageIncome,Percentage of Households With Wage or Salary Income In The Past 12 Months For Households
-19,CEN_tr_pctHHincomeLT20K,"Percentage of Households with  Income In The Past 12 Months Less than $20,000"
-20,CEN_tr_pctConstructionService,Pecentage of people in Construction Industry with Service occupations
-21,CEN_tr_pctArtsProd,"Pecentage of people in Arts, entertainment, and recreation, and accommodation and food services Industry with Production, transportation, and material moving occupations"
-22,CEN_tr_pctLT10KAge25plus,"Percentage of Households With In The Past 12 Months Less than $10,000 among Householders  25 years and over"
-23,CEN_bg_pctHHincomeGE50K,"Percentage of Households with  Income In The Past 12 Months Greater Than $50,000"
-24,CEN_bg_pctGE125KAge65plus,"Percentage of Households With In The Past 12 Months Greater Than $125,000 among Householders  65 years and over"
-25,CEN_tr_pctHHincomeGE125K,"Percentage of Households with  Income In The Past 12 Months Greater Than $125,000"
-26,CEN_tr_pctProfessionalService,"Pecentage of people in Professional, scientific, and management, and administrative and waste management services Industry with Service occupations"
-27,CEN_bg_pctCleaningOcc,Pecentage of people with Building and grounds cleaning and maintenance occupations
-28,CEN_bg_age45plus,Percentage of Age 45 and over
-29,CEN_tr_pctEducationProd,"Pecentage of people in Educational services, and health care and social assistance Industry with Production, transportation, and material moving occupations"
-30,CEN_tr_pctServicePrivate,Percentage of People work as Employee of private company workers with Service occupations
-31,CEN_bg_populationDensity,Population Density
-32,CEN_tr_pctOwnOccValGE500K,"Percentage of Owner-occupied housing units with value greater than $500,000"
-33,MinLoanTermRem_C1,Self explanatory
-34,CEN_tr_pctFinanceMgt,"Pecentage of people in Finance and insurance, and real estate and rental and leasing Industry with Management, business, science, and arts occupations"
-35,iat96m06_C4,Number of inquiries (dedupped) in last 6 months
-36,CEN_bg_pctHHincomeLT40K,"Percentage of Households with  Income In The Past 12 Months Less than $40,000"
-37,ihi21_C4,Months since most recent home equity trade opened
-38,CEN_tr_Top5PercentMeanIncome,Top 5 Percent of mean household income
-39,CEN_tr_pctWorkforceGovt,Pecentage of Government workers
-40,imt42_C4,Number of mortgages ever 60+ days past due
-41,ifn96m06_C4,Number of finance inquiries in the last 6 months
-42,CEN_bg_pctProtectServiceOcc,Pecentage of people with Protective service occupations
-43,CEN_tr_age80plus,Percentage of Age 85 and over
-44,CEN_bg_pctGE150KAge65plus,"Percentage of Households With In The Past 12 Months Greater Than $150,000 among Householders  65 years and over"
-45,CEN_tr_pctHealthPractitionersOcc,Pecentage of people with Healthcare practitioners and technical occupations
-46,iau42_C4,Number of auto trades ever 60+ days past due
-47,i03ccmv1_C4,Minimum credit card utilization after payment over last 3 months
-48,noOfRooms_zip_mean_C1,Self explanatory - average value of all policyholders in dataset who also live in this zip code
-49,i03ccpq1_C4,Percent of credit card payments more than zero but less than amount due over 3 months
+1,MarkettoArea_C1,Self explanatory
+2,Housing.Units.Percent.Built.2000.to.2004_C3,Self explanatory
+3,Housing.Units.Percent.5.Units_C3,Self explanatory
+4,Number.of.Lifestyles.All_C3,Self explanatory
+5,CEN_tr_pctGE200KAge65plus,"Percentage of Households With In The Past 12 Months Greater Than $200,000 among Householders  65 years and over"
+6,CEN_tr_pctLT50KAge65plus,"Percentage of Households With In The Past 12 Months Less than $50,000 among Householders  65 years and over"
+7,CEN_tr_pctLT25KAge65plus,"Percentage of Households With In The Past 12 Months Less than $25,000 among Householders  65 years and over"
+8,CEN_tr_pctLT10KAge65plus,"Percentage of Households With In The Past 12 Months Less than $10,000 among Householders  65 years and over"
+9,CEN_tr_pctProductionFamily,"Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Production, transportation, and material moving occupations"
+10,CEN_tr_pctConstructionFamily,"Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Natural resources, construction, and maintenance occupations"
+11,CEN_tr_pctSalesFamily,Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Sales and office occupations
+12,CEN_tr_pctServiceFamily,Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Service occupations
+13,CEN_tr_pctManagementFamily,"Percentage of People work as Self-employed in own not incorporated business workers and unpaid family workers with Management, business, science, and arts occupations"
+14,CEN_tr_pctProductionGovt,"Percentage of People work as Local, state, and federal government workers with Production, transportation, and material moving occupations"
+15,CEN_tr_pctConstructionGovt,"Percentage of People work as Local, state, and federal government workers with Natural resources, construction, and maintenance occupations"
+16,CEN_tr_pctSalesGovt,"Percentage of People work as Local, state, and federal government workers with Sales and office occupations"
+17,CEN_tr_pctServiceGovt,"Percentage of People work as Local, state, and federal government workers with Service occupations"
+18,CEN_tr_pctManagementGovt,"Percentage of People work as Local, state, and federal government workers with Management, business, science, and arts occupations"
+19,CEN_tr_pctProductionNonProfit,"Percentage of People work as Private not-for-profit wage and salary workers with Production, transportation, and material moving occupations"
+20,CEN_tr_pctConstructionNonProfit,"Percentage of People work as Private not-for-profit wage and salary workers with Natural resources, construction, and maintenance occupations"
+21,CEN_tr_pctSalesNonProfit,Percentage of People work as Private not-for-profit wage and salary workers with Sales and office occupations
+22,CEN_tr_pctServiceNonProfit,Percentage of People work as Private not-for-profit wage and salary workers with Service occupations
+23,CEN_tr_pctManagementNonProfit,"Percentage of People work as Private not-for-profit wage and salary workers with Management, business, science, and arts occupations"
+24,CEN_tr_pctProductionSelfEmp,"Percentage of People work as Self-employed in own incorporated business workers with Production, transportation, and material moving occupations"
+25,CEN_tr_pctConstructionSelfEmp,"Percentage of People work as Self-employed in own incorporated business workers with Natural resources, construction, and maintenance occupations"
+26,CEN_tr_pctSalesSelfEmp,Percentage of People work as Self-employed in own incorporated business workers with Sales and office occupations
+27,CEN_tr_pctServiceSelfEmp,Percentage of People work as Self-employed in own incorporated business workers with Service occupations
+28,CEN_tr_pctManagementSelfEmp,"Percentage of People work as Self-employed in own incorporated business workers with Management, business, science, and arts occupations"
+29,CEN_tr_pctProductionPrivate,"Percentage of People work as Employee of private company workers with Production, transportation, and material moving occupations"
+30,CEN_tr_pctConstructionPrivate,"Percentage of People work as Employee of private company workers with Natural resources, construction, and maintenance occupations"
+31,CEN_tr_pctSalesPrivate,Percentage of People work as Employee of private company workers with Sales and office occupations
+32,CEN_tr_pctServicePrivate,Percentage of People work as Employee of private company workers with Service occupations
+33,CEN_tr_pctManagementPrivate,"Percentage of People work as Employee of private company workers with Management, business, science, and arts occupations"
+34,CEN_tr_pctAdministrationProd,"Pecentage of people in Public administration Industry with Production, transportation, and material moving occupations"
+35,CEN_tr_pctOtherProd,"Pecentage of people in Other services, except public administration Industry with Production, transportation, and material moving occupations"
+36,CEN_tr_pctArtsProd,"Pecentage of people in Arts, entertainment, and recreation, and accommodation and food services Industry with Production, transportation, and material moving occupations"
+37,CEN_tr_pctEducationProd,"Pecentage of people in Educational services, and health care and social assistance Industry with Production, transportation, and material moving occupations"
+38,CEN_tr_pctProfessionalProd,"Pecentage of people in Professional, scientific, and management, and administrative and waste management services Industry with Production, transportation, and material moving occupations"
+39,CEN_tr_pctFinanceProd,"Pecentage of people in Finance and insurance, and real estate and rental and leasing Industry with Production, transportation, and material moving occupations"
+40,CEN_tr_pctInformationProd,"Pecentage of people in Information Industry with Production, transportation, and material moving occupations"
+41,CEN_tr_pctTransportationProd,"Pecentage of people in Transportation and warehousing, and utilities Industry with Production, transportation, and material moving occupations"
+42,CEN_tr_pctRetailProd,"Pecentage of people in Retail trade Industry with Production, transportation, and material moving occupations"
+43,CEN_tr_pctWholesaleProd,"Pecentage of people in Wholesale trade Industry with Production, transportation, and material moving occupations"
+44,CEN_tr_pctConstructionProd,"Pecentage of people in Construction Industry with Production, transportation, and material moving occupations"
+45,CEN_tr_pctAgricultureProd,"Pecentage of people in Agriculture, forestry, fishing and hunting, and mining Industry with Production, transportation, and material moving occupations"
+46,CEN_tr_pctAdministrationCon,"Pecentage of people in Public administration Industry with Natural resources, construction, and maintenance occupations"
+47,CEN_tr_pctPopBelowPovertyLevel,Percentage of Income in the past 12 months below poverty level
+48,CEN_tr_pctDoctorateDegree,Percentage of Doctorate degree
+49,CEN_tr_pctProfessionalDegree,Percentage of Professional school degree

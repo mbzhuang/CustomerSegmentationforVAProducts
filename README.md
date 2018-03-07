@@ -17,17 +17,12 @@ Customer Segmentation for Variable Annuity Products/
   |- PosterPresentations.pptx
   |- cluster.csv
   |- h2o_glrm_sampled_dataset.ipynb
-  |- Feature+selection-wrapper-KMeans-silhouettes-final.ipynb
-  |- Feature+selection-wrapper-KMeans-inertia-final.ipynb
   |- .ipynb_checkpoints
      |-Feature Selection with PCA -- Sha-checkpoint.ipynb
      |-Iterated feature selection using K-means - Sha-checkpoint.ipynb
      |-Iterated feature selection using K-means-checkpoint.ipynb
      |-K-medians clustering-checkpoint.ipynb
      |-centroidsClustering-Copy1-checkpoint.ipynb
-  |- doc/
-     |-Capstone_proposal.docx
-     |-project_plan.xlsx
   |- Figures/
      |-algorithm_compare.png
      |-high_dimension_elbow.png
@@ -45,12 +40,22 @@ Customer Segmentation for Variable Annuity Products/
      |-obj_vs_k.png
   |- KPrototype/
   |- algorithms/
-    |- FuzzyKMeans.ipynb
-    |- K-medians clustering.ipynb
-    |- K-prototype-final.ipynb
-    |- centroidsClusering.ipynb
-    |- k-harmonic clustering.ipynb
-    |- KMeans.ipynb
+     |-FuzzyKMeans.ipynb
+     |-K-medians clustering.ipynb
+     |-K-prototype-final.ipynb
+     |-centroidsClusering.ipynb
+     |-k-harmonic clustering.ipynb
+     |-KMeans.ipynb
+  |- dataMunging/
+     |-DataMunging-Python.ipynb
+  |- doc/
+     |-Capstone_proposal.docx
+     |-project_plan.xlsx
+  |- featureEngineering/
+    |-Feature+selection-wrapper-KMeans-inertia-final.ipynb
+    |-Feature+selection-wrapper-KMeans-silhouettes-final.ipynb
+    |-Kmeans_LASSOSelectedFeatures.ipynb
+    |-LASSOFeatureSelection_CleanedData.ipynb	
      
 ```
 ## Conclusions

@@ -9,26 +9,25 @@ A variable annuity(VA) is a contract between a customer and an insurance company
 Customer Segmentation for Variable Annuity Products/  
   |- LICENSE
   |- README.md
-  |- h2o_glrm_sampled_dataset.ipynb
+  |- Comparing different clustering algorithms final.ipynb
   |- Determine the number of clusters elbow method KMeans final.ipynb
   |- Determine the number of clusters elbow method Fuzzy KMeans final.ipynb
   |- Determine the number of clusters silhouette analysis KMeans final.ipynb
   |- Determine the number of clusters silhouette analysis KProto final.ipynb
-  |- K-prototype-final.ipynb
-  |- FuzzyKMeans.ipynb
-  |- k-harmonic clustering.ipynb
-  |- KMeans.ipynb
-  |- K-medians clustering.ipynb
-  |- centroidsClusering.ipynb
+  |- PosterPresentations.pptx
+  |- cluster.csv
+  |- h2o_glrm_sampled_dataset.ipynb
   |- Feature+selection-wrapper-KMeans-silhouettes-final.ipynb
   |- Feature+selection-wrapper-KMeans-inertia-final.ipynb
-  |- .ipynb
-  |- .ipynb
-  |- 
+  |- .ipynb_checkpoints
+     |-Feature Selection with PCA -- Sha-checkpoint.ipynb
+     |-Iterated feature selection using K-means - Sha-checkpoint.ipynb
+     |-Iterated feature selection using K-means-checkpoint.ipynb
+     |-K-medians clustering-checkpoint.ipynb
+     |-centroidsClustering-Copy1-checkpoint.ipynb
   |- doc/
      |-Capstone_proposal.docx
      |-project_plan.xlsx
-  |- KPrototype/
   |- Figures/
      |-algorithm_compare.png
      |-high_dimension_elbow.png
@@ -42,6 +41,16 @@ Customer Segmentation for Variable Annuity Products/
      |-PCAK8.png
      |-PCAK9.png
      |-PCAK10.png
+     |-obj_vs_iter.png
+     |-obj_vs_k.png
+  |- KPrototype/
+  |- algorithms/
+    |- FuzzyKMeans.ipynb
+    |- K-medians clustering.ipynb
+    |- K-prototype-final.ipynb
+    |- centroidsClusering.ipynb
+    |- k-harmonic clustering.ipynb
+    |- KMeans.ipynb
      
 ```
 ## Conclusions

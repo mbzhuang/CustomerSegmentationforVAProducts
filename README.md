@@ -56,7 +56,20 @@ Customer Segmentation for Variable Annuity Products/
     |-Feature+selection-wrapper-KMeans-silhouettes-final.ipynb
     |-Kmeans_LASSOSelectedFeatures.ipynb
     |-LASSOFeatureSelection_CleanedData.ipynb	
-     
+  |- finalModel/
+    |-KMeans_h2o.ipynb
+    |-KMeans_vs_EWKMDemo.pdf
+    |-ewkm.ipynb
+    |-plot_ewkm_R.ipynb
+    |-plot_kmeans_R.ipynb
+  |- glrm/
+    |-.ipynb_checkpoints/
+      |-17features_profiling_imputed-checkpoint.ipynb
+      |-17features_profiling_original-checkpoint.ipynb
+    |-17features_profiling_imputed.ipynb
+    |-17features_profiling_original.ipynb
+    |-h2o_glrm_all.ipynb
+    |-imputationResultDemo.pdf
 ```
 ## Conclusions
 * High dimensional data clustering. Our study showed that KMeans algorithm performs not as good on high dimensionality. This is probably because euclidean distance is problematic with high dimensionality.

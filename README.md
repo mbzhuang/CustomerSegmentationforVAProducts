@@ -40,6 +40,20 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
 ## Results
 
+1. Feature Selection
+
+    * Step 1: Go through all features and remove irrelevant ones.
+    * Step 2: Remove correlated features.
+    * Step 3: Logistic regression with LASSO regularization, select features that can predict policyholders’ behaviors.
+    * Step 4: Group features and PCA transformation.
+    
+2. Clustering Algorithms Comparison
+
+
+
+3. Optimal K -- Method Development
+
+
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.
 * When comparing different clustering algorithms in low dimension, fuzzy K-Means, Ward, and regular K-Means are the top three algorithms in terms of silhouette score. Ward, being an hierarchical clustering algorithm, has much longer runtime and is difficult to scale to a large data set. 

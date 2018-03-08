@@ -23,7 +23,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
 
-![Alt text](Figure/readme_fig1.png  | width=48){:height="24px" width="48px"}
+![Alt text](Figure/readme_fig1.png)
 ![Alt text](Figure/readme_fig2.png)
 
 3. Model Selection
@@ -33,9 +33,9 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
 4. Determination of Optimal K
 
-    Elbow Method
+    * Elbow Method
     To define clusters such that the explained variance (between-cluster sum of squares/total sum of squares) is maximized.
-    Average Silhouette Score Analysis
+    * Average Silhouette Score Analysis
     Silhouette coefficient is calculated using the mean intra-cluster distance and the mean nearest-cluster distance for each sample. Average silhouette measures how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess clustering performance. 
 
 ## Results
@@ -46,13 +46,17 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     * Step 2: Remove correlated features.
     * Step 3: Logistic regression with LASSO regularization, select features that can predict policyholders’ behaviors.
     * Step 4: Group features and PCA transformation.
-    
-2. Clustering Algorithms Comparison
+    ![Alt text](Figure/readme_fig3.png)
+    ![Alt text](Figure/readme_fig4.png)
 
+2. Clustering Algorithms Comparison
+![Alt text](Figure/readme_fig5.png)
+![Alt text](Figure/readme_fig6.png)
 
 
 3. Optimal K -- Method Development
-
+![Alt text](Figure/readme_fig7.png)
+![Alt text](Figure/readme_fig8.png)
 
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.

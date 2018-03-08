@@ -25,9 +25,9 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     <p align="center">
   <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="256">
     </p>
-![smiley](Figure/readme_fig1.png){:height="36px" width="36px"}.
-![Alt text](Figure/readme_fig1.png)<!-- .element height="50%" width="50%" -->
-![Alt text](Figure/readme_fig2.png)<!-- .element height="50%" width="50%" -->
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="256">
+    </p>
 
 3. Model Selection
 
@@ -48,18 +48,30 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     * Step 1: Go through all features and remove irrelevant ones.
     * Step 2: Remove correlated features.
     * Step 3: Logistic regression with LASSO regularization, select features that can predict policyholders’ behaviors.
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig4.png" width="400">
+    </p>
     * Step 4: Group features and PCA transformation.
-    ![Alt text](Figure/readme_fig3.png)
-    ![Alt text](Figure/readme_fig4.png)
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig3.png" width="400">
+    </p>
 
 2. Clustering Algorithms Comparison
-![Alt text](Figure/readme_fig5.png)
-![Alt text](Figure/readme_fig6.png)
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig5.png" width="400">
+    </p>
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig6.png" width="256">
+    </p>
 
 
 3. Optimal K -- Method Development
-![Alt text](Figure/readme_fig7.png)
-![Alt text](Figure/readme_fig8.png)
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="400">
+    </p>
+    <p align="center">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="400">
+    </p>
 
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.

@@ -22,8 +22,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 2. Data Preparation
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
-  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="256"></p>
-  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="276"></p>
+  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="256"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="276"></p>
 
 3. Model Selection
 

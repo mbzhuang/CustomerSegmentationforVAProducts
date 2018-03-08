@@ -12,7 +12,7 @@ A variable annuity (VA) is a contract between a customer and an insurance compan
 The data is provided by the sponsor, Milliman. It has more than 4 million row and 1063 variables. Data sources include insurance company and third party, which are primarily consumer, mortgage, credit, census, and health data.
 
 ## Methods
-![Alt text](Figure/readme_fig1.jpg?raw=true "Title")
+![Alt text](Figure/readme_fig1.png?raw=true "Title")
 
 ## Results
 

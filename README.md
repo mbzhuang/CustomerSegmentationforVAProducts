@@ -20,10 +20,23 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     Wrapper model, order features based on their cluster differentiability.
     
 2. Data Preparation
+
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
 
-![Alt text](Figure/readme_fig1.png| width=100)
+![picture](Figure/readme_fig1.png|width=100)
 ![Alt text](Figure/readme_fig2.png?raw=true "Title")
+
+3. Model Selection
+
+    Applied 10 different clustering algorithms range from basic K-Means, K-Means extensions to hierarchical clustering, kernel-based clustering, density-based clustering and probabilistic model using existing packages.
+    Self-implemented K-Means, K-Medians, K-Harmonic Means and K-Prototype clustering algorithms from scratch. 
+
+4. Determination of Optimal K
+
+    Elbow Method
+    To define clusters such that the explained variance (between-cluster sum of squares/total sum of squares) is maximized.
+    Average Silhouette Score Analysis
+    Silhouette coefficient is calculated using the mean intra-cluster distance and the mean nearest-cluster distance for each sample. Average silhouette measures how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess clustering performance. 
 
 ## Results
 

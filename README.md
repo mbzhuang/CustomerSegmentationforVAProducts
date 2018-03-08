@@ -23,7 +23,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
 
-![Alt text](Figure/readme_fig1.png|width=100)
+![Alt text](Figure/readme_fig1.png){:height="24px" width="48px"}
 ![Alt text](Figure/readme_fig2.png)
 
 3. Model Selection

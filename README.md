@@ -22,7 +22,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 2. Data Preparation
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
-  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="276"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="310"></p>
+  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="276"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="305"></p>
 
 3. Model Selection
 
@@ -53,7 +53,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
 
 3. Optimal K -- Method Development
-    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="380"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="450"></p>
+    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="390"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="450"></p>
 
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.

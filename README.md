@@ -22,7 +22,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 2. Data Preparation
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
-  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="276"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="276"></p>
+  <p align="center"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="276"><img align="center" src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="296"></p>
 
 3. Model Selection
 
@@ -49,11 +49,11 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig3.png" width="500"></p>
 
 2. Clustering Algorithms Comparison
-    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig5.png" height="400"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig6.png" height="400"></p>
+    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig5.png" width="400"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig6.png" width="400"></p>
 
 
 3. Optimal K -- Method Development
-    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" height="400"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" height="400"></p>
+    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="400"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="400"></p>
 
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.

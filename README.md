@@ -22,11 +22,12 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 2. Data Preparation
 
     Apply Generalized Low Rank Model on High-dimensional Data to reduce dimensionality and impute missing values.
+   
     <p align="center">
   <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="256">
     </p>
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="256">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="276">
     </p>
 
 3. Model Selection
@@ -48,29 +49,30 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     * Step 1: Go through all features and remove irrelevant ones.
     * Step 2: Remove correlated features.
     * Step 3: Logistic regression with LASSO regularization, select features that can predict policyholders’ behaviors.
+    
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig4.png" width="400">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig4.png" width="300">
     </p>
     * Step 4: Group features and PCA transformation.
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig3.png" width="400">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig3.png" width="500">
     </p>
 
 2. Clustering Algorithms Comparison
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig5.png" width="400">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig5.png" width="700">
     </p>
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig6.png" width="256">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig6.png" width="211">
     </p>
 
 
 3. Optimal K -- Method Development
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="400">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="700">
     </p>
     <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="400">
+  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="700">
     </p>
 
 ## Conclusions

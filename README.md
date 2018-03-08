@@ -26,6 +26,7 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
     <p align="center">
   <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig1.png" width="256">
     </p>
+    
     <p align="center">
   <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig2.png" width="276">
     </p>

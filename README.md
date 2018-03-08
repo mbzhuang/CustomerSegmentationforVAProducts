@@ -59,12 +59,8 @@ The data is provided by the sponsor, Milliman. It has more than 4 million row an
 
 
 3. Optimal K -- Method Development
-    <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="650">
-    </p>
-    <p align="center">
-  <img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="700">
-    </p>
+    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig7.png" width="650"></p>
+    <p align="center"><img src="https://github.com/mbzhuang/CustomerSegmentationforVAProducts/blob/master/Figure/readme_fig8.png" width="700"></p>
 
 ## Conclusions
 * The missing value imputation and feature selection methods were successful for subsequent clustering.

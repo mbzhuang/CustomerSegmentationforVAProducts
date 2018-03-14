@@ -79,6 +79,7 @@ Customer Segmentation for Variable Annuity Products/
   |- Determine the number of clusters elbow method Fuzzy KMeans final.ipynb
   |- Determine the number of clusters silhouette analysis KMeans final.ipynb
   |- Determine the number of clusters silhouette analysis KProto final.ipynb
+  |- Interim delivery.pptx
   |- PosterPresentations.pptx
   |- cluster.csv
   |- h2o_glrm_sampled_dataset.ipynb
